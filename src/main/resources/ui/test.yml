@@ -1,0 +1,15 @@
+title: '测试自动加载菜单'
+rows: 6
+slots:
+  '0':
+    meta:
+      type: cmd
+      command: me hello,world
+    item:
+      material: 'stone'
+      data: 0
+      name: '&7命令示例按钮'
+      lore:
+        - ''
+        - '这是一个命令示例按钮'
+        - ''
